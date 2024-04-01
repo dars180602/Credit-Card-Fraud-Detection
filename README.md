@@ -20,3 +20,6 @@ Thank you for your interest in our project! If you have any questions or suggest
 Timeline and Deliverables: https://docs.google.com/spreadsheets/d/1JDPSTqTU8q4MK3zN5AF9vBCsO8XDJI5lD9oyeVHPxPM/edit#gid=1115838130
 
 Google Colab Link: https://colab.research.google.com/drive/1D-RRUslLfotFEVqwImfes5CWee3Yot3I?usp=sharing#scrollTo=7RHcIuyRaA8B
+
+
+Sample Input Array: 6986, -2.592844218, 2.679786967, -3.496197293, -4.801637406, -10.91281932, -6.771096725, -7.358083221, -12.59841854, -5.131548628, 0.308333946, -0.171607879, 0.573574068, -0.053501865, -0.827135715, 0.84957338, 59
