@@ -19,7 +19,7 @@ Thank you for your interest in our project! If you have any questions or suggest
 
 Timeline and Deliverables: https://docs.google.com/spreadsheets/d/1JDPSTqTU8q4MK3zN5AF9vBCsO8XDJI5lD9oyeVHPxPM/edit#gid=1115838130
 
-Google Colab Link: https://colab.research.google.com/drive/1D-RRUslLfotFEVqwImfes5CWee3Yot3I?usp=sharing#scrollTo=7RHcIuyRaA8B
+Google Colab Link: (https://colab.research.google.com/drive/14M5_oj3C0toqLUxE0MDRarajfaNRYxNn#scrollTo=cvT-oPYsM4Yk)
 
 
 **Sample Input Array for the UI**
